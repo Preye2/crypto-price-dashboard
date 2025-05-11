@@ -84,3 +84,5 @@ The application uses the CoinGecko API to fetch real-time cryptocurrency data. T
 ```
 https://api.coingecko.com/api/v3/coins/markets
 ```
+
+[Proof of Implementation](https://github.com/Preye2/crypto-price-dashboard/blob/276e708ecd8b75191f340e2d0d3e6cf75cb6210e/proof-of-implementation.jpg)
